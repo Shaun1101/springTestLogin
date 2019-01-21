@@ -11,7 +11,7 @@ public class Login {
     /**
      * @RequestParam注解的作用是：根据参数名从URL中取得参数值
      * @param username
-     *            用户名，一定要对应着表单的name才行
+     *            用户名，一定要对应着表单的name
      * @param password
      *            用户密码，也应该对应表单的数据项
      * @param model
